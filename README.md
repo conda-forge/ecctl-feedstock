@@ -146,5 +146,6 @@ Feedstock Maintainers
 =====================
 
 * [@MatthewJanuszewski](https://github.com/MatthewJanuszewski/)
+* [@mxr-conda](https://github.com/mxr-conda/)
 * [@oblute](https://github.com/oblute/)
 
