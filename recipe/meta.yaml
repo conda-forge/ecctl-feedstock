@@ -1,5 +1,5 @@
 {% set name = "ecctl" %}
-{% set version = "1.7.1" %}
+{% set version = "1.8.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/elastic/ecctl/archive/v{{ version }}.tar.gz
-  sha256: 8e631b888f5f28aca4684625e0ae5694b83de1829f6f4c3d20aa8ed4095c9def
+  sha256: 3faed2c57f502b28ab97cb9f2e17b6e94ddd89a2f2ad7d892a123f6ef93207fe
 
 # Can we get windows to work?
 build:
